@@ -4,14 +4,14 @@ The Python code plots live data from a DHT11 temperature/humidity sensor. Uses p
 
 ![Figure](https://github.com/pinrar/dht11-polar/blob/master/Figure_3.png)
 
-##Hardware:
+## Hardware:
 * Arduino Uno
 * DHT-11
 * 1 x 4.7 kOhm resistor
 
-##Libraries:
-###Arduino:
+## Libraries:
+### Arduino:
 * DHT.h
 
-###Python:
+### Python:
 * pySerial
